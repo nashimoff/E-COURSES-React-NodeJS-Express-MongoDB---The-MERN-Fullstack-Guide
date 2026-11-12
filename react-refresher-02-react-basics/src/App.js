@@ -1,7 +1,16 @@
-import React from 'react';
+import React from "react";
 
 const App = () => {
-  return <h1 title="This works!">Hi, <span>this</span> is ReactJS!</h1>;
+  return (
+    <div>
+      <h2>Course Goals</h2>
+      <ul>
+        <li>Finish the Course</li>
+        <li>Learn all about the Course Main Topic</li>
+        <li>Help other students in the CourseQ&amp;A</li>
+      </ul>
+    </div>
+  );
 };
 
 export default App;
