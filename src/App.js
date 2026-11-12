@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const App = () => {
   return (
@@ -7,10 +7,10 @@ const App = () => {
       <ul>
         <li>Finish the Course</li>
         <li>Learn all about the Course Main Topic</li>
-        <li>Help other students in the CourseQ&amp;A</li>
+        <li>Help other students in the Course Q&amp;A</li>
       </ul>
     </div>
-  );
+  )
 };
 
 export default App;
